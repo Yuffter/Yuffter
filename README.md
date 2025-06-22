@@ -1,5 +1,6 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yuffter%20Profile&textBg=false" />
+  <br>
   <a href="https://github.com/Yuffter">
     <img height="20" src="https://komarev.com/ghpvc/?username=Yuffter" />
   </a>
